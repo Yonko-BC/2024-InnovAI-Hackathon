@@ -1,8 +1,9 @@
 # Hackathon
 
 
-- Demo Link of the Marhaba-Morocco app [Marhaba-Morocco](https://marhaba-morocco.streamlit.app/)
-
+- Demo Link of the Marhaba-Morocco app [Marhaba-Morocco-app](https://marhaba-morocco.streamlit.app/)
+- Figma design of the Marhaba-Morocco app [Marhaba-Morocco-design]([https://marhaba-morocco.streamlit.app/](https://www.figma.com/design/e2Th6xQ4EvAaYwoPeHBzeN/Marhaba-Morocco?node-id=154-15406&t=giX5iXYplDUsToEY-1))
+- Watch the video demo of the Marhaba-Morocco app [video-demo](https://drive.google.com/file/d/1P2S0oJvJQAcTiU3ctTCJRs2uIA5ngP43/view?usp=sharing).
 
 ## Abstract
 
